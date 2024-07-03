@@ -1,0 +1,76 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "jewelcraft",
+      "name": "JewelCraft",
+      "tagline": "Jewelry design toolkit",
+      "version": "2.16.0",
+      "type": "add-on",
+      "maintainer": "Mikhail Rachinskiy",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mrachinskiy/jewelcraft",
+      "copyright": [
+        "2015-2024 Mikhail Rachinskiy"
+      ],
+      "tags": [
+        "Modeling"
+      ],
+      "archive_url": "https://github.com/mrachinskiy/jewelcraft/releases/download/v2.16.0-blender4.2.0/jewelcraft-2_16_0.zip",
+      "archive_size": 740833,
+      "archive_hash": "sha256:a7f7c7c6e1b9c9d0c468d4e3f3611ef3c4ce4b4316619be5dd052eb459ddd3a9"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "messythings",
+      "name": "Messy Things",
+      "tagline": "Deal with badly organized projects",
+      "version": "1.4.0",
+      "type": "add-on",
+      "maintainer": "Mikhail Rachinskiy",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mrachinskiy/messythings",
+      "copyright": [
+        "2017-2024 Mikhail Rachinskiy"
+      ],
+      "tags": [
+        "Scene",
+        "Object"
+      ],
+      "archive_url": "https://github.com/mrachinskiy/messythings/releases/download/v1.4.0/messythings-1_4_0.zip",
+      "archive_size": 22147,
+      "archive_hash": "sha256:3ad80c70f578624e215f2195bb7ad28a38f2dffd3d15db4bea9025fdce4b3aa2"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sidekick",
+      "name": "Sidekick",
+      "tagline": "Detect common modeling mistakes",
+      "version": "1.2.0",
+      "type": "add-on",
+      "maintainer": "Mikhail Rachinskiy",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mrachinskiy/sidekick",
+      "copyright": [
+        "2020-2024 Mikhail Rachinskiy"
+      ],
+      "tags": [
+        "Modeling"
+      ],
+      "archive_url": "https://github.com/mrachinskiy/sidekick/releases/download/v1.2.0-blender4.2.0/sidekick-1_2_0.zip",
+      "archive_size": 32107,
+      "archive_hash": "sha256:d77014984bee918a991195399d709f4694c176a85639c3e1d2d9e7b7e534fc14"
+    }
+  ]
+}
