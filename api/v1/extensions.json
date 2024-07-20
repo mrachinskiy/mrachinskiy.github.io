@@ -7,7 +7,7 @@
       "id": "jewelcraft",
       "name": "JewelCraft",
       "tagline": "Jewelry design toolkit",
-      "version": "2.16.0",
+      "version": "2.16.1",
       "type": "add-on",
       "maintainer": "Mikhail Rachinskiy",
       "license": [
@@ -24,9 +24,9 @@
       "tags": [
         "Modeling"
       ],
-      "archive_url": "https://github.com/mrachinskiy/jewelcraft/releases/download/v2.16.0-blender3.5.0/jewelcraft-2_16_0.zip",
-      "archive_size": 709476,
-      "archive_hash": "sha256:b8dcbdec9fdfc17270dd18485e53962794926efc5ddeb228e7c6449c2bc3e32e"
+      "archive_url": "https://github.com/mrachinskiy/jewelcraft/releases/download/v2.16.1-blender3.5.0/jewelcraft-2_16_1.zip",
+      "archive_size": 709453,
+      "archive_hash": "sha256:fdbe9515b1499d1ab392fd44f7f6294779fb317cc494de3e2b64812d8eb49c6a"
     },
     {
       "schema_version": "1.0.0",
