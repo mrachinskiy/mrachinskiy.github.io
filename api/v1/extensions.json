@@ -24,7 +24,7 @@
       "tags": [
         "Modeling"
       ],
-      "archive_url": "./jewelcraft-2_17_0.zip",
+      "archive_url": "https://github.com/mrachinskiy/jewelcraft/releases/download/v2.17.0-blender3.5.0/jewelcraft-2_17_0.zip",
       "archive_size": 833066,
       "archive_hash": "sha256:d0e8a3c973e77bb6f7faf18372f14bea9b681feb3e4f1794c42117725d4e0298"
     },
