@@ -57,7 +57,7 @@
       "id": "sidekick",
       "name": "Sidekick",
       "tagline": "Detect common modeling mistakes",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "type": "add-on",
       "maintainer": "Mikhail Rachinskiy",
       "license": [
@@ -71,9 +71,9 @@
       "tags": [
         "Modeling"
       ],
-      "archive_url": "https://github.com/mrachinskiy/sidekick/releases/download/v1.2.0-blender3.4.0/sidekick-1_2_0.zip",
-      "archive_size": 28133,
-      "archive_hash": "sha256:ff23ee77668520b2b4f63f6820d57c2abad7c432e006290e96bd2a5502bcf39d"
+      "archive_url": "https://github.com/mrachinskiy/sidekick/releases/download/v1.2.1-blender3.4.0/sidekick-1_2_1.zip",
+      "archive_size": 28358,
+      "archive_hash": "sha256:aee3ceb8776df5da075373ed7736bcafbdb5b4971266b2fc2e5a5ea374cee866"
     }
   ]
 }
