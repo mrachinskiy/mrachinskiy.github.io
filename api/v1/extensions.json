@@ -33,7 +33,7 @@
       "id": "messythings",
       "name": "Messy Things",
       "tagline": "Deal with badly organized projects",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "type": "add-on",
       "maintainer": "Mikhail Rachinskiy",
       "license": [
@@ -42,15 +42,15 @@
       "blender_version_min": "4.2.0",
       "website": "https://github.com/mrachinskiy/messythings",
       "copyright": [
-        "2017-2024 Mikhail Rachinskiy"
+        "2017-2025 Mikhail Rachinskiy"
       ],
       "tags": [
         "Scene",
         "Object"
       ],
-      "archive_url": "https://github.com/mrachinskiy/messythings/releases/download/v1.4.0/messythings-1_4_0.zip",
-      "archive_size": 22147,
-      "archive_hash": "sha256:3ad80c70f578624e215f2195bb7ad28a38f2dffd3d15db4bea9025fdce4b3aa2"
+      "archive_url": "https://github.com/mrachinskiy/messythings/releases/latest/download/messythings-1_4_1.zip",
+      "archive_size": 20623,
+      "archive_hash": "sha256:41a6d2699049bf4438d23708f949607c129ca38b804cd0b181f91e38bc26b51a"
     },
     {
       "schema_version": "1.0.0",
